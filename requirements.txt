@@ -1,6 +1,6 @@
 asgiref==3.2.7
 certifi==2020.4.5.2
-Django==3.0.3
+Django==3.0.7
 opencv-contrib-python==4.2.0.34
 pytz==2020.1
 sqlparse==0.3.1
